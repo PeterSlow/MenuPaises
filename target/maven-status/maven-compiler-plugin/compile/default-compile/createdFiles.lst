@@ -1,0 +1,5 @@
+es\albarregas\controllers\Paises.class
+es\albarregas\controllers\PaisSeleccionado.class
+es\albarregas\filters\UTF8Filter.class
+DAO\DAOPaisSeleccionado.class
+beans\Pais.class
